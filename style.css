@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+}
+.Orange
+{
+    color: orange;
+}
+p
+{
+    font-size: 20px;
+    font-weight: 400;
+    margin-block: 5%;
+}
+section
+{
+    display: flex;
+}
+.half-width
+{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img
+{
+    width: 100%;
+}
+.half-width a
+{
+    margin: auto;
+}
+.button
+{
+    text-decoration: none;
+   background-color: tomato;
+   color: white;
+   font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 20px;
+    
+   
+}
+
