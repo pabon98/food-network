@@ -60,4 +60,13 @@ section
 {
     font-weight: 400;
 }
+.recipies
+{
+  height: 400px;
+  width: 1500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
 
