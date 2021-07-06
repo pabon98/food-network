@@ -15,12 +15,13 @@ p
 {
     font-size: 25px;
     font-weight: 400;
-    margin-block: 5%;
+    padding:0;
     
 }
 section
 {
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width
 {
@@ -62,11 +63,22 @@ section
 }
 .recipies
 {
-  height: 400px;
-  width: 1500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
+    display: inline-block;
+   text-align: center;
+   
+ 
+}
+.my-recipies
+{
+    height: 100px;
+    display: block;
+    text-align: center;  
+}
+.one-third
+{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    border: 1px solid;
 }
 
