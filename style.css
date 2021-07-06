@@ -25,7 +25,11 @@ p
 section
 {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+   
+}
+.top
+{
     padding-top: 100px;
 }
 .half-width
@@ -38,7 +42,7 @@ section
 .half-width img
 {
     width: 80%;
-    height: 61%;
+    height: 73%;
      
 }
 .button
@@ -79,14 +83,17 @@ section
 {
     display: inline-block;
    text-align: center;
+   margin-bottom: 200px;
    
  
 }
 .my-recipies
 {
-    height: 100px;
+    height: 60px;
     display: block;
-    text-align: center;  
+    text-align: center;
+    margin-bottom: 100px;
+    
 }
 .one-third
 {
