@@ -32,19 +32,21 @@ section
 {
     width: 50%;
     padding-left: 5%;
+    
    
 }
 .half-width img
 {
     width: 80%;
+    height: 61%;
      
 }
 .button
 {
     text-decoration: none;
-   background-image: linear-gradient(#eb3349, #f45c43);
-   color: white;
-   font-weight: 700;
+    background-image: linear-gradient(#eb3349, #f45c43);
+    color: white;
+    font-weight: 700;
     padding: 20px 40px;
     border-radius: 20px;  
 }
@@ -52,15 +54,22 @@ section
 {
     background-image: url(images/shapes/7.png);
     margin-top: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+    
 }
+
 .contact-button
 {
     text-decoration: none;
     background-image:linear-gradient(#eb3349, #f45c43);
     color: white;
-   font-weight: 700;
+    font-weight: 700;
     padding: 20px 40px;
     border-radius: 20px;
+    margin-bottom: 20px;
+    
 }
 .half-width p
 {
@@ -92,14 +101,20 @@ section
 {
     box-shadow: 10px 10px 40px gray;
     border-radius: 30px;
+    
 
 }
-.favourite-food
+.bonus
 {
-    padding-left: 60px;
-    width: 30%;
-    display: flex;
+    box-shadow: 10px 20px 50px gray;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+   
 }
+
+
 footer{
     background-color: black;
     height: 300px;
