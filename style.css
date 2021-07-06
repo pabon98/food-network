@@ -7,6 +7,10 @@ h1{
     font-size: 60px;
     
 }
+h2
+{
+    font-size: 35px;
+}
 .Orange
 {
     color: orange;
@@ -78,7 +82,24 @@ section
 {
     width: 30%;
     float: left;
-    margin-left: 1%;
-    border: 1px solid;
+    margin-left: 3%;
+  
+    
+}
+.box-shadow
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+
+}
+footer{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+footer h2
+{
+    padding-top: 50px
+    
 }
 
