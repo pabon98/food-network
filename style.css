@@ -30,7 +30,8 @@ section
 }
 .top
 {
-    padding-top: 100px;
+    
+    margin-top: 100px;
 }
 .half-width
 {
@@ -83,7 +84,7 @@ section
 {
     display: inline-block;
    text-align: center;
-   margin-bottom: 200px;
+   margin-bottom: 250px;
    
  
 }
